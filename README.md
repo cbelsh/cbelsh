@@ -57,7 +57,7 @@ curiosidade:     Meu interesse por Linux nasceu do nada, numa
 <tr>
 <td width="50%" valign="top">
 
-**🌐 [Servidor DNS com Unbound](https://github.com/BibsfihaG/Servidor-DNS-com-Unbound)**
+**🌐 [Servidor DNS com Unbound](https://github.com/cbelsh/Servidor-DNS-com-Unbound)**
 
 Configuração prática de um servidor DNS recursivo local via CLI, com controle de acesso e zonas customizadas. Objetivo final: rodar como resolver real na minha rede doméstica, comparando desempenho contra Google/Cloudflare DNS e evitando expor todas as consultas a terceiros.
 
@@ -66,7 +66,7 @@ Configuração prática de um servidor DNS recursivo local via CLI, com controle
 </td>
 <td width="50%" valign="top">
 
-**📜 [Shell Scripts](https://github.com/BibsfihaG/Shell-Scripts)**
+**📜 [Shell Scripts](https://github.com/cbelsh/Shell-Scripts)**
 
 Caderno de estudos e registro prático das aulas de Shell Script — anotações e utilitários desenvolvidos ao longo do aprendizado, documentando a evolução do zero até scripts funcionais.
 
