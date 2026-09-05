@@ -17,9 +17,6 @@ Sou entusiasta de tecnologia e redes, construindo minha base em **infraestrutura
 ```yaml
 foco_atual:      Redes de Computadores & Administração de Sistemas
 estudando:       DNS recursivo (Unbound), TCP/IP, Windows Server
-conquista_recente: 92,59% na prova final do curso de Administração de
-                    Servidores Linux (SENAI) — bolsa conquistada para
-                    o curso de Windows Server em seguida
 aberto_para:     Colaborações em redes, automação e infraestrutura
 curiosidade:     Meu interesse por Linux nasceu do nada, numa
                  madrugada qualquer, quando eu mal sabia da
@@ -78,17 +75,6 @@ Caderno de estudos e registro prático das aulas de Shell Script — anotações
 </td>
 </tr>
 </table>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=BibsfihaG&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=BibsfihaG&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ---
 
