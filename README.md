@@ -1,42 +1,105 @@
-# Olá, sou o Carlos Eduardo! 👋
+<div align="center">
 
-🚀 **Sobre Mim**
+# Olá, sou o Carlos Eduardo 👋
 
-Entusiasta de Tecnologia e Redes, focado em criar uma base sólida em **Infraestrutura, Fundamentos de Redes e Administração Linux**.
+### Futuro Administrador de Sistemas & Redes | Linux • Infraestrutura • Automação
 
-* 👀 **Foco Principal:** Redes de Computadores & Administração de Sistemas
-* 🌱 **Estudando no Momento:** Arquitetura DNS (Unbound), TCP/IP e Administração em Linux
-* 💞️ **Aberto para:** Colaborações em projetos de redes, automação e infraestrutura
-* ⚡ **Curiosidade:** Meu interesse por Linux nasceu do nada em uma madrugada qualquer, quando eu mal sabia da existência do sistema (minha primeira distro foi o Zorin OS Lite). O interesse por redes veio do mesmo jeito, no meio da noite, e segue firme até hoje!
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00A8E8&center=true&vCenter=true&width=600&lines=Construindo+uma+base+s%C3%B3lida+em+Redes+e+Linux;Estudando+DNS%2C+TCP%2FIP+e+Administra%C3%A7%C3%A3o+de+Sistemas;Aprendendo+na+pr%C3%A1tica%2C+um+laborat%C3%B3rio+por+vez" alt="Typing SVG" />
+
+</div>
 
 ---
 
-🛠️ **Tecnologias & Ferramentas**
+### 🚀 Sobre mim
+
+Sou entusiasta de tecnologia e redes, construindo minha base em **infraestrutura, fundamentos de redes e administração Linux** com foco em me tornar um sysadmin sólido — não em programação, não em cibersegurança, mas em **fazer sistemas e redes funcionarem bem**.
+
+```yaml
+foco_atual:      Redes de Computadores & Administração de Sistemas
+estudando:       DNS recursivo (Unbound), TCP/IP, Windows Server
+conquista_recente: 92,59% na prova final do curso de Administração de
+                    Servidores Linux (SENAI) — bolsa conquistada para
+                    o curso de Windows Server em seguida
+aberto_para:     Colaborações em redes, automação e infraestrutura
+curiosidade:     Meu interesse por Linux nasceu do nada, numa
+                 madrugada qualquer, quando eu mal sabia da
+                 existência do sistema (minha primeira distro foi
+                 o Zorin OS Lite). O interesse por redes surgiu do
+                 mesmo jeito — e segue firme até hoje.
+```
+
+---
+
+### 🛠️ Tecnologias & Ferramentas
 
 **Sistemas Operacionais & Shell**
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 
 **Virtualização, Segurança & Serviços**
+
 ![KVM](https://img.shields.io/badge/KVM/Virt--Manager-FF6600?style=for-the-badge&logo=qemu&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 ![UFW](https://img.shields.io/badge/UFW-Firewall-333333?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Unbound](https://img.shields.io/badge/Unbound%20DNS-00A8E8?style=for-the-badge&logo=internetcomputer&logoColor=white)
 
 **Controle de Versão**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-📌 **Projetos em Destaque**
+### 📌 Projetos em destaque
 
-* **[Servidor DNS com Unbound](https://github.com/BibsfihaG/Servidor-DNS-com-Unbound):** Configuração prática de um servidor DNS recursivo local usando CLI, controle de acesso e zonas customizadas (com expansão planejada para Hyperlocal e DNSSEC).
-* **[Shell Scripts](https://github.com/BibsfihaG/Shell-Scripts):** Caderno de estudos e registro prático das aulas de Shell Script, reunindo anotações e scripts utilitários desenvolvidos ao longo do aprendizado.
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🌐 [Servidor DNS com Unbound](https://github.com/BibsfihaG/Servidor-DNS-com-Unbound)**
+
+Configuração prática de um servidor DNS recursivo local via CLI, com controle de acesso e zonas customizadas. Objetivo final: rodar como resolver real na minha rede doméstica, comparando desempenho contra Google/Cloudflare DNS e evitando expor todas as consultas a terceiros.
+
+`DNS` `Recursão` `Zonas locais` `Expansão planejada: DNSSEC`
+
+</td>
+<td width="50%" valign="top">
+
+**📜 [Shell Scripts](https://github.com/BibsfihaG/Shell-Scripts)**
+
+Caderno de estudos e registro prático das aulas de Shell Script — anotações e utilitários desenvolvidos ao longo do aprendizado, documentando a evolução do zero até scripts funcionais.
+
+`Bash` `Automação` `Aprendizado documentado`
+
+</td>
+</tr>
+</table>
 
 ---
 
-📫 **Conecte-se Comigo**
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=BibsfihaG&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=BibsfihaG&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+### 📫 Conecte-se comigo
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosbelarmino1)
+
+</div>
+
+<div align="center">
+<sub>🔧 Em constante atualização — assim como minha infraestrutura.</sub>
+</div>
